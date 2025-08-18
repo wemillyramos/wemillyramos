@@ -1,16 +1,17 @@
-## Hi there 👋
+## Olá, eu sou a wemilly 👋
 
-<!--
-**wemillyramos/wemillyramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Wemilly Ramos, tenho 26 anos, moro em Recife - Pernambuco, sou graduada em Fisioterapia pela Unibra, tenho Pós graduação em Pediatria/Neonatal pelo Instituto Paiva, atualmente estou cursando Análise e Desenvolvimento de Sistemas pela Univesidade cruzeiro do Sul, fazendo uma migração de carreira após descobri uma paixão pelo tecnologia.
 
-Here are some ideas to get you started:
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+💻 Interessada em **Desenvolvimento de Sotfware**  
+🚀 Aprendendo Python, JavaScript, HTML, CSS e SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologias e Ferramentas
+- HTML, CSS, JavaScript
+- Python
+- Git & GitHub
+- SQL
+
+
+📫 **Conecte-se comigo:** [LinkedIn](https://www.linkedin.com/in/wemillyramos)
+
