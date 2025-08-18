@@ -9,7 +9,7 @@ Me chamo Wemilly Ramos, tenho 26 anos, moro em Recife - Pernambuco, sou graduada
 ## 🛠 Tecnologias e Ferramentas
 - HTML, CSS, JavaScript
 - Python
-- Git & GitHub
+- GitHub
 - SQL
 
 
