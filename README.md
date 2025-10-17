@@ -4,13 +4,13 @@ Me chamo Wemilly Ramos, tenho 26 anos, moro em Recife - Pernambuco, sou graduada
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 💻 Interessada em **Desenvolvimento de Sotfware**  
-🌱 Aprendendo Python, JavaScript, HTML, CSS e SQL
+🌱 Aprendendo Python, JavaScript, HTML5, CSS3 
 
 ## 🛠 Tecnologias e Ferramentas
 - HTML, CSS, JavaScript
 - Python
 - Git, GitHub
-- SQL
+- VsCode
 
 
 📫 **Conecte-se comigo:** [LinkedIn](https://www.linkedin.com/in/wemillyramos)
